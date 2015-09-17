@@ -1,0 +1,720 @@
+.starter{
+	padding-top:30px;
+}
+
+.starter2{
+	padding-top:80px;
+}
+
+.starter3{
+	padding-top:50px;
+}
+
+.end{
+	margin-bottom:80px;
+}
+
+.endpadd{
+	padding-bottom:50px;
+}
+
+/*----------------------------------base----------------------------------------*/
+
+.base{
+	background-color: #FF5277;
+	color: white;
+}
+
+
+.base h1 {
+	font-family: 'Abril Fatface';
+	font-size: 60pt;
+	text-align: center;
+}
+
+.base h2 {
+	font-family: 'Abril Fatface';
+	font-size: 15pt;
+	color: white;
+	opacity: 0.8;
+	text-align: center;
+	letter-spacing: 0.05em;
+}
+
+.base h3 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	color: #FFF310;
+	font-size: 15pt;
+	text-align: center;
+	margin-top: 18px;
+	opacity: 0.9;
+	margin-bottom: 100px;
+}
+
+.planetary h2 {
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	font-size: 11pt;
+	opacity: 0.8;
+	text-align: center;
+	margin-top: -10px;
+	letter-spacing: 0em;
+}
+
+
+.base hr {
+	width: 16%;
+	border-color: #FFF310;
+	margin-top: 5px;
+
+}
+
+/*----------------------------------base2----------------------------------------*/
+
+.base2{
+	background-color: white;
+	color: black;
+}
+
+.base2 p{
+	font-family: 'Montserrat', sans-serif;
+	color: #5D5D5D;
+	font-size: 11pt;
+}
+
+.base2 hr {
+	width: 16%;
+	border-color: #FFF310;
+	border-width: 3px;
+	margin-top: 80px;
+}
+
+.milan {
+	font-family: 'Montserrat';
+	font-size: 14pt !important;
+	font-weight: bold;
+	opacity: 1;
+	text-align: center;
+	letter-spacing: 0.05em;
+}
+
+.milan2 {
+	font-family: 'Montserrat';
+	color: #5D5D5D;
+	font-size: 14pt;
+	opacity: 1;
+	text-align: center;
+	letter-spacing: 0.05em;
+	margin-top: 0px;
+}
+
+.rettfront {
+	border: 3px solid #FF5277;
+	background-color: white;
+	width: 18%;
+	height: 120px;
+	margin-right: 40px;
+	padding-top: -200px;
+}
+
+.rettback1 {
+	background-color: #FFF310;
+	width: 18%;
+	height: 120px;
+	margin-right: 40px;
+	margin-left: 102px;
+	margin-bottom: -115px;
+}
+
+.rettback {
+	background-color: #FFF310;
+	width: 18%;
+	height: 120px;
+	margin-right: 40px;
+	margin-bottom: -115px;
+}
+
+.nota {
+	font-family: 'Abril Fatface';
+	font-size: 9pt !important;
+	opacity: 1;
+	text-align: center;
+	letter-spacing: 0.05em;
+	margin-top: 30px;
+}
+
+
+.base2 h2{
+	font-family: 'Montserrat', sans-serif;
+	color: #FF5277;
+	font-size: 16pt;
+	margin-top: 15px;
+	text-align: center;
+}
+
+.base2 h1{
+	font-family: 'Abril Fatface';
+	color: #FF5277;
+	font-size: 30pt;
+	margin-top: 15px;
+	text-align: center;
+}
+
+
+
+/*----------------------------------base3----------------------------------------*/
+
+.base3{
+	background-color: #0D0D0D;
+}
+
+.base3 h1{
+	font-family: 'Abril Fatface';
+	color: #FFF310;
+	font-size: 40pt;
+	margin-top: 0px;
+	text-align: left;
+	line-height: 48px;
+}
+
+.base3 p {
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	opacity: 0.7;
+	font-size: 11pt;
+	line-height: 15pt;
+}
+
+.legend3 {
+	margin-top: -240px;
+	width: 16%;
+}
+
+
+.cover3 {
+	background-color: #FFFFFF;
+	height: 40px;
+	margin-top: -35px;
+}
+
+
+/*----------------------------------base4----------------------------------------*/
+
+
+.base4{
+	background-color: #FFFFFF;
+}
+
+.base4 hr {
+	width: 16%;
+	border-color: #FFF310;
+	border-width: 3px;
+	margin-top: 80px;
+}
+
+.airbnb {
+	font-family: 'Montserrat';
+	font-size: 14pt !important;
+	font-weight: bold;
+	opacity: 1;
+	text-align: center;
+	letter-spacing: 0.05em;
+}
+
+.airbnb2 {
+	font-family: 'Montserrat';
+	color: #5D5D5D !important;
+	font-size: 12pt;
+	opacity: 1;
+	text-align: center;
+	font-style: italic;
+	letter-spacing: 0.05em;
+	margin-top: 0px;
+}
+
+.base4 h1{
+	font-family: 'Abril Fatface';
+	color: #5D5D5D;
+	font-size: 32pt;
+	margin-top: 0px;
+	text-align: center;
+}
+
+.legend2 {
+	width: 11.9%;
+}
+
+.base4 p{
+	font-family: 'Montserrat', sans-serif;
+	color: #5D5D5D;
+	font-size: 11pt;
+}
+
+.cover4 {
+	background-color: #FFFFFF;
+	height: 40px;
+	margin-top: -35px;
+}
+
+.cover4bis {
+	background-color: #FFFFFF;
+	height: 40px;
+	margin-top: -35px;
+	display: hidden;
+}
+
+
+.map-container{
+	width:100%;
+	height:800px;
+	position: relative;
+
+}
+     #map{
+         position:absolute; top:0; bottom:0; width:100%;
+         height:800px;
+        }
+
+  .dropdown-menu li a{
+        	cursor:pointer;
+        }
+
+
+form {background-color: transparent !important;}
+
+        path{
+            fill:none;
+        }
+
+        .dropdown{
+            position: absolute;
+            right:1%;
+            width:auto;
+            z-index:3;
+        }
+        .dropdown .dropdown-toggle {
+            background: white !important;
+            border: none !important;
+            color:#f91652 !important;
+            font-size:20px !important;
+            text-shadow: none !important;
+        }
+        .dropdown .dropdown-menu{
+            background: transparent !important;
+            color:#fff;
+            font-size:18px;
+        }
+           .dropdown .dropdown-menu li a, .dropdown .dropdown-menu li a:focus{
+            background: transparent !important;
+            color:#fff;
+            font-size:18px;
+        }
+        .leaflet-active{
+            border:none;
+            outline: invert none medium !important;
+        }
+
+      
+
+
+
+
+
+
+
+/*----------------------------------base5----------------------------------------*/
+
+
+
+
+.base5 {
+	background-color: #0D0D0D;
+}
+
+
+.base5 h1{
+	font-family: 'Abril Fatface';
+	color: #FFFFFF;
+	font-size: 40pt;
+	margin-top: 0px;
+	text-align: center;
+	line-height: 48px;
+}
+
+.base5 h3{
+	font-family: 'Montserrat';
+	color: #FFF310;
+	font-size: 16pt !important;
+	line-height: 20pt !important;
+	margin-top: 0px;
+	text-align: center;
+	line-height: 48px;
+}
+
+.base5 p {
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	opacity: 0.7;
+	font-size: 11pt;
+	line-height: 15pt;
+}
+
+.cover5 {
+	background-color: #0D0D0D;
+	height: 40px;
+	margin-top: -35px;
+}
+
+
+
+
+
+/*----------------------------------base6----------------------------------------*/
+
+
+.base6 {
+	background-color: #0D0D0D;
+}
+
+
+.base6 h1{
+	font-family: 'Abril Fatface';
+	color: #FFFFFF;
+	font-size: 40pt;
+	margin-top: 0px;
+	text-align: left;
+	line-height: 48px;
+}
+
+.base6 h3{
+	font-family: 'Montserrat';
+	color: #FFF310;
+	font-size: 16pt !important;
+	line-height: 20pt !important;
+	margin-top: 0px;
+	text-align: left;
+	line-height: 48px;
+}
+
+.base6 p {
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	opacity: 0.7;
+	font-size: 11pt;
+	line-height: 15pt;
+}
+
+.legend6 {
+	margin-top: -250px;
+	width: 16%;
+}
+
+
+.cover6 {
+	background-color: #FFFFFF;
+	height: 40px;
+	margin-top: -35px;
+}
+
+
+
+
+/*----------------------------------base7----------------------------------------*/
+
+.base7 {
+	background-color: #FFFFFF;
+}
+
+.base7 hr {
+	width: 16%;
+	border-color: #FFF310;
+	border-width: 3px;
+	margin-top: 80px;
+}
+
+.ranking {
+	font-family: 'Montserrat';
+	font-size: 14pt !important;
+	font-weight: bold;
+	color: #FF5277;
+	opacity: 1;
+	text-align: center;
+	letter-spacing: 0.05em;
+}
+
+.ranking2 {
+	font-family: 'Montserrat';
+	color: #5D5D5D;
+	font-size: 12pt;
+	opacity: 1;
+	text-align: center;
+	letter-spacing: 0.05em;
+	margin-top: 0px;
+}
+
+.base7 p{
+	font-family: 'Montserrat', sans-serif;
+	color: #5D5D5D;
+	font-size: 11pt;
+}
+
+
+
+
+/*----------------------------------base8----------------------------------------*/
+
+.base8 {
+	background-color: #FF5277;
+	color: white;
+}
+
+.base8 p{
+	font-family: 'Montserrat', sans-serif;
+	color: #FFFFFF;
+	font-size: 11pt;
+	opacity: 0.8;
+}
+
+
+.conclusion {
+	font-family: 'Montserrat';
+	font-size: 16pt;
+	opacity: 1;
+	text-align: center;
+	letter-spacing: 0.05em;
+}
+
+.conclusion2 {
+	font-family: 'Montserrat';
+	font-size: 12pt;
+	color: #FFF310;
+	opacity: 0.8;
+	text-align: center;
+	font-style: italic;
+	letter-spacing: 0.05em;
+	margin-top: 0px;
+}
+
+
+
+/*----------------------------------footer----------------------------------------*/
+
+
+.footer {
+	background-color: #1D1D1D;
+	color: white;
+}
+
+.foot-title {
+	color: white;
+}
+
+.footer h3 {
+	font-family: 'Montserrat';
+	font-size: 12pt;
+	font-weight: bold;
+	color: #FF5277;
+	text-align: left;
+}
+
+.footer p {
+	font-family: 'Montserrat';
+	font-size: 11pt;
+	color: #FFFFFF;
+	text-align: left;
+}
+
+.icons {
+	font-size: 15pt;
+	color: #FFFFFF;
+
+}
+
+.icons:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.icons:active {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.icons:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.icons:hover {
+	color: #FFF310;
+	text-decoration: none;
+	
+}
+
+.density {
+	margin-top: 5px;
+}
+
+
+
+
+
+
+/*----------------------------------screens----------------------------------------*/
+
+
+
+@media (max-width: 2000px) {
+
+		.rettfront {
+			margin-right: 40px;
+		}
+
+		.rettback1 {
+			margin-right: 40px;
+			margin-left: 102px;
+		}
+
+		.rettback {
+			margin-right: 40px;
+		}
+
+}
+
+@media (max-width: 1200px) {
+
+		.rettfront {
+			margin-right: 40px;
+		}
+
+		.rettback1 {
+			margin-right: 40px;
+			margin-left: 85px;
+		}
+
+		.rettback {
+			margin-right: 40px;
+		}
+
+		.legend2 {
+			width: 14.5%;
+		}
+
+		.legend3 {
+			width: 16%;
+			margin-top: -160px;
+		}
+
+		.legend6 {
+			width: 16%;
+			margin-top: -160px;
+		}
+
+}
+
+@media (max-width: 992px) {
+
+		.rettfront {
+			margin-right: 20px;
+		}
+
+		.rettback1 {
+			margin-right: 20px;
+			margin-left: 66px;
+		}
+
+		.rettback {
+			margin-right: 20px;
+		}
+
+		.legend2 {
+			display:none;
+		}
+
+		.cover3 {
+			margin-top: -55px;
+		}
+
+		.cover6 {
+			margin-top: -55px;
+		}	
+
+		.legend3 {
+			width: 25%;
+			margin-top: -290px;
+		}
+
+		.legend6 {
+			width: 25%;
+			margin-top: -290px;
+		}
+
+		.base5 h1{
+			text-align: left;
+		}
+
+		.base5 h3{
+			text-align: left;
+		}
+
+
+}
+
+@media (max-width: 768px) {
+
+		.rettfront {
+			margin-right: 20px;
+			border: 2px solid #FF5277; 
+		}
+
+		.rettback1 {
+			margin-right: 20px;
+			margin-left: 40px;
+			display: none;
+		}
+
+		.rettback {
+			margin-right: 20px;
+			display: none;
+		}
+
+		.base2 h2{
+			font-size: 12pt;
+		}
+
+		.base2 h1{
+			font-size: 20pt;
+		}
+
+		.legend2 {
+			display:none;
+		}
+
+		.cover4bis {
+			display: visible;
+		}
+
+		.legend3 {
+			width: 35%;
+			margin-top: -290px;
+		}
+
+		.legend6 {
+			width: 35%;
+			margin-top: -290px;
+		}
+
+		.base4 h1{
+			font-size: 26pt;
+		}
+
+		.base5 h1{
+			text-align: left;
+		}
+
+		.base5 h3{
+			text-align: left;
+		}
+
+}
